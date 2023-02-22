@@ -6,18 +6,12 @@
 
 
 # Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mrtusarrx1)👈
 
 # YouTube video
-[![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)](https://youtu.be/xeZz0oDPB7M)
-# screenshot
-![](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/screenshot/Screenshot_20220207_201629.jpg)
+[![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)](https://www.youtube.com/@mrtusarrx4008/featured)
 
-# Google pay
-UPI: sgosain18122001@okaxis
 
-# PhonePe
-UPI: shubhamg0sai@ybl
  
 # Installation
 apt update -y
@@ -34,7 +28,7 @@ apt update -y
 
  pip2 install mechanize
 
-git clone https://github.com/shubhamg0sai/phone-number-tracker
+git clone https://github.com/MrTusarRX/phone-number-tracker
 
 cd phone-number-tracker
  
